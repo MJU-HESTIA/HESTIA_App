@@ -24,4 +24,5 @@ flutter run
 의존성: `google_fonts`, `flutter_svg`.
 
 ## My role
-<!-- 앱 UI 기여 범위 확인 후 작성 예정 (전체 시스템 통합: 이승석 — HESTIA_SW 참고) -->
+- 앱 UI(Flutter)는 팀원이 개발했습니다.
+- **이승석**: 전체 시스템 통합, Jetson 소프트웨어(HESTIA_SW), ESP32 펌웨어(HESTIA_FW), IR 가전 제어.
